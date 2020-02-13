@@ -23,16 +23,22 @@ public class Principal {
 		switch(op) {
 		case 1:
 			Sorts.LlenarArchivo();
+			break;
 		case 2:
 			Sorts.SelectionSort();
+			break;
 		case 3:
 			Sorts.MergeSort();
+			break;
 		case 4:
 			Sorts.QuickSort();
+			break;
 		case 5:
 			Sorts.RadixSort();
+			break;
 		case 6:
 			Sorts.SortAleatorio();
+			break;
 			}
 		}
     }

@@ -1,0 +1,11 @@
+Selected
+https://www.geeksforgeeks.org/selection-sort/
+
+Merge
+https://platzi.com/tutoriales/1469-algoritmos/4260-merge-sort-en-java/
+
+Radix
+https://www.baeldung.com/java-radix-sort
+
+Quick
+http://puntocomnoesunlenguaje.blogspot.com/2012/12/java-quicksort.html
